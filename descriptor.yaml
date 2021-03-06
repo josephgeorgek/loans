@@ -1,0 +1,13 @@
+code: loan-bundle
+description: This is the loan bundle
+
+components:
+  plugins:
+    - plugins/loan-plugin.yaml
+
+  widgets:
+    - ui/widgets/loan/tableWidget/loan-table-widget-descriptor.yaml
+    - ui/widgets/loan/detailsWidget/loan-details-widget-descriptor.yaml
+    - ui/widgets/loan/formWidget/loan-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+

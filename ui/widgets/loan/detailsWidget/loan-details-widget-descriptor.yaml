@@ -1,0 +1,6 @@
+code: loan-details-widget
+titles:
+  en: Loan Details Widget
+  it: Loan Details Widget
+group: free
+customUiPath: loan-details-widget.ftl

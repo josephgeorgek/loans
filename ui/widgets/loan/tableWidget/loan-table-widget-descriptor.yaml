@@ -1,0 +1,6 @@
+code: loan-table-widget
+titles:
+  en: Loan Table Widget
+  it: Loan Table Widget
+group: free
+customUiPath: loan-table-widget.ftl
